@@ -27,7 +27,7 @@ git add . to add all files or git add <file name>
 git commit -m "Initial commit"
 
 ### 5 . Push to remote repository:
-git remote add origin <remote_repo_url>, then
+git remote set-url origin git@github.com:ca-priyanka/learn_git, then
 git push -u origin main
 
 # Everyday jobs:
